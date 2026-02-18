@@ -1,2 +1,2 @@
-# EDFBrowser-MacOS
+# EDFViewer-MacOS
 EDFBrowser-MacOS
