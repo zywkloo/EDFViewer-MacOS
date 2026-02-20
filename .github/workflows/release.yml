@@ -37,7 +37,7 @@ jobs:
 
       - name: Package DMG
         run: |
-          APP="build/EDFViewerMac.xcarchive/Products/Applications/EDFViewerMac.app"
+          APP=$(find build/EDFViewerMac.xcarchive -name "*.app" -type d | head -1)
           echo "Packaging: $APP"
           mkdir -p dist
           hdiutil create \
