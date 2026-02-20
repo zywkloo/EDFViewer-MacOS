@@ -32,6 +32,7 @@ targets:
         INFOPLIST_KEY_NSHumanReadableCopyright: ""
         CODE_SIGN_STYLE: Automatic
         ENABLE_HARDENED_RUNTIME: YES
+        ENABLE_DEBUG_DYLIB: NO
         COMBINE_HIDPI_IMAGES: YES
   EDFViewerMacTests:
     type: bundle.unit-test
