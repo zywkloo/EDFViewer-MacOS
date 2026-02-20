@@ -2,8 +2,6 @@
 
 A native macOS SwiftUI viewer for EDF/BDF biomedical signal files — free, open source, and built for clinicians, researchers, and patients.
 
-> Licensed under the [MIT License](LICENSE). Free to use, modify, and distribute.
-
 ---
 
 ## App Preview
@@ -273,10 +271,10 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
-*"Whatever you do, work at it with all your heart, as working for the Lord, not for human masters."*
+>  *"Whatever you do, work at it with all your heart, as working for the Lord, not for human masters."*
 — Colossians 3:23
 
-*"Heal the sick, cleanse the lepers, raise the dead, cast out devils: freely ye have received, freely give."*
+>  *"Heal the sick, cleanse the lepers, raise the dead, cast out devils: freely ye have received, freely give."*
 — Matthew 10:8
 
 ---
