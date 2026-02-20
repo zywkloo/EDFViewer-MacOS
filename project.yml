@@ -13,6 +13,9 @@ targets:
   EDFViewerMac:
     type: application
     platform: macOS
+    configFiles:
+      Debug: configs/Debug.xcconfig
+      Release: configs/Release.xcconfig
     sources:
       - path: Sources/EDFViewerMac
         excludes:
